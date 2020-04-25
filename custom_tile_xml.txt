@@ -1,0 +1,42 @@
+<Text fontSize="20" position="0,-175,-15" rotation="0,0,180">'Jack Name</Text>
+<ToggleButton width="40" height="40" rotation="0,0,180" position="130,-90,-11">1a</ToggleButton>
+<ToggleButton width="40" height="40" rotation="0,0,180" position="80,-90,-11">2a</ToggleButton>
+<ToggleButton width="40" height="40" rotation="0,0,180" position="30,-90,-11">3a</ToggleButton>
+<ToggleButton width="40" height="40" rotation="0,0,180" position="-20,-90,-11">4a</ToggleButton>
+<ToggleButton width="40" height="40" rotation="0,0,180" position="-75,-90,-11">5a</ToggleButton>
+<ToggleButton width="40" height="40" rotation="0,0,180" position="-125,-90,-11">6a</ToggleButton>
+
+<ToggleButton width="40" height="40" rotation="0,0,180" position="130,-40,-11">1b</ToggleButton>
+<ToggleButton width="40" height="40" rotation="0,0,180" position="80,-40,-11">2b</ToggleButton>
+<ToggleButton width="40" height="40" rotation="0,0,180" position="30,-40,-11">3b</ToggleButton>
+<ToggleButton width="40" height="40" rotation="0,0,180" position="-20,-40,-11">4b</ToggleButton>
+<ToggleButton width="40" height="40" rotation="0,0,180" position="-75,-40,-11">5b</ToggleButton>
+<ToggleButton width="40" height="40" rotation="0,0,180" position="-125,-40,-11">6b</ToggleButton>
+
+<ToggleButton width="40" height="40" rotation="0,0,180" position="130,10,-11">1c</ToggleButton>
+<ToggleButton width="40" height="40" rotation="0,0,180" position="80,10,-11">2c</ToggleButton>
+<ToggleButton width="40" height="40" rotation="0,0,180" position="30,10,-11">3c</ToggleButton>
+<ToggleButton width="40" height="40" rotation="0,0,180" position="-20,10,-11">4c</ToggleButton>
+<ToggleButton width="40" height="40" rotation="0,0,180" position="-75,10,-11">5c</ToggleButton>
+<ToggleButton width="40" height="40" rotation="0,0,180" position="-125,10,-11">6c</ToggleButton>
+
+<ToggleButton width="40" height="40" rotation="0,0,180" position="130,70,-11">1d</ToggleButton>
+<ToggleButton width="40" height="40" rotation="0,0,180" position="80,70,-11">2d</ToggleButton>
+<ToggleButton width="40" height="40" rotation="0,0,180" position="30,70,-11">3d</ToggleButton>
+<ToggleButton width="40" height="40" rotation="0,0,180" position="-20,70,-11">4d</ToggleButton>
+<ToggleButton width="40" height="40" rotation="0,0,180" position="-75,70,-11">5d</ToggleButton>
+<ToggleButton width="40" height="40" rotation="0,0,180" position="-125,70,-11">6d</ToggleButton>
+
+<ToggleButton width="40" height="40" rotation="0,0,180" position="130,120,-11">1e</ToggleButton>
+<ToggleButton width="40" height="40" rotation="0,0,180" position="80,120,-11">2e</ToggleButton>
+<ToggleButton width="40" height="40" rotation="0,0,180" position="30,120,-11">3e</ToggleButton>
+<ToggleButton width="40" height="40" rotation="0,0,180" position="-20,120,-11">4e</ToggleButton>
+<ToggleButton width="40" height="40" rotation="0,0,180" position="-75,120,-11">5e</ToggleButton>
+<ToggleButton width="40" height="40" rotation="0,0,180" position="-125,120,-11">6e</ToggleButton>
+
+<ToggleButton width="40" height="40" rotation="0,0,180" position="130,170,-11">1f</ToggleButton>
+<ToggleButton width="40" height="40" rotation="0,0,180" position="80,170,-11">2f</ToggleButton>
+<ToggleButton width="40" height="40" rotation="0,0,180" position="30,170,-11">3f</ToggleButton>
+<ToggleButton width="40" height="40" rotation="0,0,180" position="-20,170,-11">4f</ToggleButton>
+<ToggleButton width="40" height="40" rotation="0,0,180" position="-75,170,-11">5f</ToggleButton>
+<ToggleButton width="40" height="40" rotation="0,0,180" position="-125,170,-11">f6</ToggleButton>
